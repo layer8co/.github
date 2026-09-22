@@ -1,14 +1,13 @@
-Hi there 👋
+We build software that works. We solve real problems with practical solutions.
 
-<!--
+**Care About Your Craft**
+We take pride in what we build and continuously improve.
 
-**Here are some ideas to get you started:**
+**Think About Your Work**
+We understand why we're doing something, not just how.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-## Manifest
-During the entire development process, do whatever you need to do, and do it well.
+**Keep It Simple**
+We solve the problem at hand without over-engineering.
+
+**No Broken Windows**
+We fix small problems immediately before they become big ones.
